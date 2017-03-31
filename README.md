@@ -1,5 +1,5 @@
 # Extension for Charts
-The extension for simplifying the work with [Charts](https://github.com/danielgindi/Charts)
+The class extension for simplifying the work with [Charts](https://github.com/danielgindi/Charts)
 
 
 ## Usage

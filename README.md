@@ -18,3 +18,6 @@ If you use [Charts](https://github.com/danielgindi/Charts) and already have BarC
         barChartView.setBarChartData(xValues: months, yValues: unitsSold, label: "Monthly Sales")
     }    
 ```
+
+## Author
+Created by Alexander Smetannikov (alexsmetdev@gmail.com)

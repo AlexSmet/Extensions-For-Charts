@@ -1,5 +1,9 @@
 # Extension for Charts
-The class extension for simplifying the work with [Charts](https://github.com/danielgindi/Charts)
+[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)](https://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)
+[![Language](https://img.shields.io/badge/language-swift-orange.svg?style=flat-square)](https://swift.org/about/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
+
+The class extension for simplifying the work with [danielgindi/Charts](https://github.com/danielgindi/Charts)
 
 
 ## Usage

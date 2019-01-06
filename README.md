@@ -10,7 +10,7 @@ The class extension for simplifying the work with [danielgindi/Charts](https://g
 
 If you use [Charts](https://github.com/danielgindi/Charts) and already have BarChartView in your project, just add  file with extension (BarChartViewExtention.swift) in the project and use function setBarChartData for set values for X and Y axis.
 
-```
+```swift
     @IBOutlet weak var barChartView: BarChartView!
 
     ...
